@@ -5,3 +5,7 @@
 [submodule "cbr-client"]
 	path = cbr-client
 	url = git@github.com:fintecy/cbr-client.git
+
+[submodule "ecb-client"]
+	path = ecb-client
+	url = git@github.com:fintecy/ecb-client.git
