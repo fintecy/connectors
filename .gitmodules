@@ -1,0 +1,7 @@
+[submodule "oxr-client"]
+	path = oxr-client
+	url = git@github.com:fintecy/oxr-client.git
+
+[submodule "cbr-client"]
+	path = cbr-client
+	url = git@github.com:fintecy/cbr-client.git
