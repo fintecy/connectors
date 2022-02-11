@@ -9,3 +9,7 @@
 [submodule "ecb-client"]
 	path = ecb-client
 	url = git@github.com:fintecy/ecb-client.git
+
+[submodule "revolut-client"]
+	path = revolut-client
+	url = git@github.com:fintecy/revolut-client.git
