@@ -13,3 +13,11 @@
 [submodule "revolut-client"]
 	path = revolut-client
 	url = git@github.com:fintecy/revolut-client.git
+
+[submodule "coinbase-java-client"]
+	path = coinbase-java-client
+	url = git@github.com:fintecy/coinbase-java-client.git
+
+[submodule "bitstamp-java-client"]
+	path = bitstamp-java-client
+	url = git@github.com:fintecy/bitstamp-java-client.git
