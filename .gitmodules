@@ -21,3 +21,7 @@
 [submodule "bitstamp-java-client"]
 	path = bitstamp-java-client
 	url = git@github.com:fintecy/bitstamp-java-client.git
+
+[submodule "kraken-java-client"]
+	path = kraken-java-client
+	url = git@github.com:fintecy/kraken-java-client.git

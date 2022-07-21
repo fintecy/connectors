@@ -1,4 +1,5 @@
 # Connectors
+
 Connectors to various financial data providers
 
 - `cbr-client` - Central Bank of Russia
@@ -7,6 +8,8 @@ Connectors to various financial data providers
 - `revolut-client` - Revolut FX Rates
 - `coinbase-java-client` - Coinbase Crypto Exchange
 - `bitstamp-java-client` - Bitstamp Crypto Exchange
+- `kraken-java-client` - Kraken Crypto Exchange
 
 ## Author
+
 Anton Batiaev <anton@batiaev.com>
