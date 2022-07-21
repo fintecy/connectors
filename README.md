@@ -9,7 +9,8 @@ Connectors to various financial data providers
 - `coinbase-java-client` - Coinbase Crypto Exchange
 - `bitstamp-java-client` - Bitstamp Crypto Exchange
 - `kraken-java-client` - Kraken Crypto Exchange
-- `tinkoff-java-client` - Tinkoff Crypto Exchange
+- `tinkoff-java-client` - Tinkoff Broker
+- `binance-java-client` - Binance Crypto Exchange
 
 ## Author
 

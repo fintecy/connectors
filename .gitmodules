@@ -29,3 +29,7 @@
 [submodule "tinkoff-java-client"]
 	path = tinkoff-java-client
 	url = git@github.com:fintecy/tinkoff-java-client.git
+
+[submodule "binance-java-client"]
+	path = binance-java-client
+	url = git@github.com:fintecy/binance-java-client.git
