@@ -25,3 +25,7 @@
 [submodule "kraken-java-client"]
 	path = kraken-java-client
 	url = git@github.com:fintecy/kraken-java-client.git
+
+[submodule "tinkoff-java-client"]
+	path = tinkoff-java-client
+	url = git@github.com:fintecy/tinkoff-java-client.git
