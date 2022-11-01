@@ -18,7 +18,7 @@ implementation 'org.fintecy.md:oxr-client:1.0.2'
 ```
 - `revolut-client` - Revolut FX Rates
 ```groovy
-implementation 'org.fintecy.md:revolut-client:1.0.2'
+implementation 'org.fintecy.md:revolut-client:1.0.4'
 ```
 - `coinbase-java-client` - Coinbase Crypto Exchange
 ```groovy
