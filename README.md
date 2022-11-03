@@ -14,7 +14,7 @@ implementation 'org.fintecy.md:ecb-client:1.0.1'
 ```
 - `oxr-client` - Open Exchange Rate
 ```groovy
-implementation 'org.fintecy.md:oxr-client:1.0.3'
+implementation 'org.fintecy.md:oxr-client:1.0.4'
 ```
 - `revolut-client` - Revolut FX Rates
 ```groovy
